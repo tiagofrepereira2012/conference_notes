@@ -1,0 +1,18 @@
+# AMLD 2026
+
+## Opening talk
+
+## ML and molecules
+
+**OpenBind: Unlocking Protein-Ligand Binding Prediction**
+
+The talk is about papers on how new works can find new protein structures.
+No introduction.
+
+Challenges - Data and methods
+
+Q: how cut-off physically not possible structures on the difusion objective?
+A: RL that plays with the reward function with physcally impossible structures.
+
+
+ASAP antiviral consortium.
