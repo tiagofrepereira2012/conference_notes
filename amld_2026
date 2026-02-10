@@ -21,3 +21,11 @@ ASAP antiviral consortium.
 
 How to discover new molecules? Mass spectrometry.
 His job is to go from mass spectrometry to molecules. DreaMS project 
+
+
+**Generative AI for Structure-based Drug Design**
+
+Large Drug Discovery model: Use a learning objective that some parts of the signals is masked and you try to learning missing gaps.
+diffusion models for instance. 
+
+BAIO LABS
